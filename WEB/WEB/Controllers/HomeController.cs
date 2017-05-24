@@ -18,5 +18,10 @@ namespace WEB.Controllers
         {
             return View();
         }
+
+        public ActionResult Input()
+        {
+            return View();
+        }
     }
 }
